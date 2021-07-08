@@ -1,4 +1,4 @@
-#Email-spam-classifier-using-naive-bayes-algorithm
+#Email-spam-classifier-using-naive-bayes-algorithm - 
 Built email spam classifier using Naive Bayes algorithm, 
 used sklearn CountVectorizer to convert email text into a matrix of numbers, 
 and then used sklearn MultinomialNB classifier to train our model. 
